@@ -7,7 +7,7 @@ Centre (RCC) Wiener GPU cluster.
 
 The information is up to date as of 29/07/2018.
 
-To run the simulation, copy it to your scratch space directory,
+To run a simulation, copy these files to your scratch space directory,
 cd to that directory, and run `sbatch submit.sh`.
 
 
