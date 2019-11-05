@@ -17,3 +17,4 @@ the output directory by modifying the `working` variable in the submission scrip
 The job will self-resubmit in order to continue the run. To disable this, remove the line
 `sbatch submit.sh` near the end of the `submit.sh` script.
 
+Additional instructions and explanations can be found in the comments of `submit.sh`
